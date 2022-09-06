@@ -5,4 +5,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luxumbra&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=B456DD&fire=7E00FF)](https://git.io/streak-stats)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=luxumbra)](https://github.com/ryo-ma/github-profile-trophy)
+
