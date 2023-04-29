@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/afed80d9-3523-4cdf-98a8-7ee9aa49504b.svg)](https://wakatime.com/@afed80d9-3523-4cdf-98a8-7ee9aa49504b?style=social)
+[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md) [![wakatime](https://wakatime.com/badge/user/afed80d9-3523-4cdf-98a8-7ee9aa49504b.svg)](https://wakatime.com/@afed80d9-3523-4cdf-98a8-7ee9aa49504b?style=social)
 
 [![Lux's github stats](https://github-readme-stats.vercel.app/api?username=luxumbra&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
